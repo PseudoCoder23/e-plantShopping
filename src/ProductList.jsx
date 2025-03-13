@@ -157,8 +157,8 @@ function ProductList() {
                     cost: "$13"
                 },
                 {
-                    name: "Lemon Balm",
-                    image: "https://cdn.pixabay.com/photo/2019/09/16/07/41/balm-4480134_1280.jpg",
+                    name: "Cannabis",
+                    image: "https://cdn.pixabay.com/photo/2022/05/17/16/39/cannabis-7203210_1280.jpg",
                     description: "Calms nerves and promotes relaxation.",
                     cost: "$14"
                 },
@@ -274,9 +274,9 @@ function ProductList() {
                 <div className="tag">
                     <div className="luxury">
                         <img src="https://cdn.pixabay.com/photo/2020/08/05/13/12/eco-5465432_1280.png" alt="" />
-                        <a href="/paradise-nursery-shopping-cart-app/" style={{ textDecoration: 'none' }}>
+                        <a href="/shoppingreact/App.jsx" style={{ textDecoration: 'none' }}>
                             <div>
-                                <h3 style={{ color: 'white' }}>Milan's Nursery</h3>
+                                <h3 style={{ color: 'white' }}>PseudoCoder23's Nursery</h3>
                                 <i style={{ color: 'white' }}>Where Green Meets Serenity</i>
                             </div>
                         </a>
